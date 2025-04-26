@@ -1,6 +1,6 @@
 # PyLot - Miniature Autonomous Car
 
-This project focuses on developing a miniature autonomous car system using image processing and machine learning techniques.
+> This project focuses on developing a miniature autonomous car system using image processing and machine learning techniques.
 
 ## Main Features
 
