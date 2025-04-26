@@ -10,12 +10,8 @@
 
     <h2>Main Features</h2>
     <ul>
-        <li><strong>Road Edge Detection</strong>:
-            Applied Canny filtering and Hough Transform to detect road edges and generate a steering line for autonomous navigation.
-        </li>
-        <li><strong>Road Sign Detection</strong>:
-            Built a road sign recognition system with <strong>99% accuracy</strong> using <strong>TensorFlow</strong> and <strong>OpenCV</strong>.
-        </li>
+        <li><strong>Road Edge Detection</strong>: Applied Canny filtering and Hough Transform to detect road edges and generate a steering line for autonomous navigation.</li>
+        <li><strong>Road Sign Detection</strong>: Built a road sign recognition system with <strong>99% accuracy</strong> using <strong>TensorFlow</strong> and <strong>OpenCV</strong>.</li>
     </ul>
 
     <h2>Project Structure</h2>
@@ -26,4 +22,5 @@
         <li><strong>4-deep-learning</strong>: Implementation of deep learning models for improved detection and navigation.</li>
         <li><strong>5-transfer-learning</strong>: Application of transfer learning to boost model performance on limited data.</li>
     </ul>
+</body>
 </html>
